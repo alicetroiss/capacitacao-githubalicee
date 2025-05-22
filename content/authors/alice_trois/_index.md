@@ -1,7 +1,7 @@
 ---
-role: Seu Nome 
+role: Alice Trois
 weight: 18
-email: "seuemail@email.com"
+email: "atrois2003@gmail.com"
 interests:
 -
 -
@@ -14,23 +14,23 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:seuemail@email.com'
+  link: 'mailto:atrois2003@gmail.com'
   
 - icon: lattes
   icon_pack: ai
-  link: seu lattes
+  link: "http://lattes.cnpq.br/5168344220580897"
   
 - icon: researchgate
   icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
+  link: "https://www.researchgate.net/profile/Alice-Trois?ev=hdr_xprf"
   
 - icon: github
   icon_pack: fab
-  link: seu github
+  link: "https://github.com/alicetroiss"
   
 - icon: linkedin-in
   icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
+  link: "https://www.linkedin.com/in/alice-maria-trois-b492001bb/"
   
 user_groups:
 - Estudantes de Graduação
